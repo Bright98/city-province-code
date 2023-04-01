@@ -2407,7 +2407,13 @@
     },
     {
         "city_code": 16531,
-        "city_name": "جاجرود(خسروآباد)",
+        "city_name": "جاجرود",
+        "province_code": 1,
+        "province_name": "تهران"
+    },
+    {
+        "city_code": 16531,
+        "city_name": "خسروآباد",
         "province_code": 1,
         "province_name": "تهران"
     },
@@ -5521,7 +5527,13 @@
     },
     {
         "city_code": 47851,
-        "city_name": "لفور (لفورک)",
+        "city_name": "لفورک",
+        "province_code": 13,
+        "province_name": "مازندران"
+    },
+    {
+        "city_code": 47851,
+        "city_name": "لفور",
         "province_code": 13,
         "province_name": "مازندران"
     },
@@ -5653,7 +5665,13 @@
     },
     {
         "city_code": 48471,
-        "city_name": "فرح اباد (خزراباد)",
+        "city_name": "فرح اباد",
+        "province_code": 13,
+        "province_name": "مازندران"
+    },
+    {
+        "city_code": 48471,
+        "city_name": "خزراباد",
         "province_code": 13,
         "province_name": "مازندران"
     },
@@ -5671,7 +5689,13 @@
     },
     {
         "city_code": 48531,
-        "city_name": "خورشید (امامیه)",
+        "city_name": "خورشید",
+        "province_code": 13,
+        "province_name": "مازندران"
+    },
+    {
+        "city_code": 48531,
+        "city_name": "امامیه",
         "province_code": 13,
         "province_name": "مازندران"
     },
@@ -5965,7 +5989,13 @@
     },
     {
         "city_code": 53571,
-        "city_name": "خاص اباد (خاصبان)",
+        "city_name": "خاص اباد",
+        "province_code": 3,
+        "province_name": "آذربایجان شرقی"
+    },
+    {
+        "city_code": 53571,
+        "city_name": "خاصبان",
         "province_code": 3,
         "province_name": "آذربایجان شرقی"
     },
@@ -5977,7 +6007,13 @@
     },
     {
         "city_code": 53591,
-        "city_name": "سرای (سرای ده)",
+        "city_name": "سرای",
+        "province_code": 3,
+        "province_name": "آذربایجان شرقی"
+    },
+    {
+        "city_code": 53591,
+        "city_name": "سرای ده",
         "province_code": 3,
         "province_name": "آذربایجان شرقی"
     },
@@ -5995,7 +6031,13 @@
     },
     {
         "city_code": 53651,
-        "city_name": "ینگی اسپران (سفیدان جد)",
+        "city_name": "ینگی اسپران",
+        "province_code": 3,
+        "province_name": "آذربایجان شرقی"
+    },
+    {
+        "city_code": 53651,
+        "city_name": "سفیدان جد",
         "province_code": 3,
         "province_name": "آذربایجان شرقی"
     },
@@ -6007,7 +6049,13 @@
     },
     {
         "city_code": 53671,
-        "city_name": "شادبادمشایخ (پینه شلوا)",
+        "city_name": "شادبادمشایخ",
+        "province_code": 3,
+        "province_name": "آذربایجان شرقی"
+    },
+    {
+        "city_code": 53671,
+        "city_name": "پینه شلوا",
         "province_code": 3,
         "province_name": "آذربایجان شرقی"
     },
@@ -6037,7 +6085,13 @@
     },
     {
         "city_code": 53741,
-        "city_name": "قدمگاه (بادام یار)",
+        "city_name": "قدمگاه",
+        "province_code": 3,
+        "province_name": "آذربایجان شرقی"
+    },
+    {
+        "city_code": 53741,
+        "city_name": "بادام یار",
         "province_code": 3,
         "province_name": "آذربایجان شرقی"
     },
@@ -6169,7 +6223,13 @@
     },
     {
         "city_code": 54341,
-        "city_name": "هرزندجدید (چای هرزند)",
+        "city_name": "هرزندجدید",
+        "province_code": 3,
+        "province_name": "آذربایجان شرقی"
+    },
+    {
+        "city_code": 54341,
+        "city_name": "چای هرزند",
         "province_code": 3,
         "province_name": "آذربایجان شرقی"
     },
@@ -6265,7 +6325,13 @@
     },
     {
         "city_code": 54561,
-        "city_name": "اذغان (ازغان)",
+        "city_name": "اذغان",
+        "province_code": 3,
+        "province_name": "آذربایجان شرقی"
+    },
+    {
+        "city_code": 54561,
+        "city_name": "ازغان",
         "province_code": 3,
         "province_name": "آذربایجان شرقی"
     },
@@ -6307,7 +6373,13 @@
     },
     {
         "city_code": 54661,
-        "city_name": "اسکلو (اسگلو)",
+        "city_name": "اسکلو",
+        "province_code": 3,
+        "province_name": "آذربایجان شرقی"
+    },
+    {
+        "city_code": 54661,
+        "city_name": "اسگلو",
         "province_code": 3,
         "province_name": "آذربایجان شرقی"
     },
@@ -6541,7 +6613,19 @@
     },
     {
         "city_code": 55561,
-        "city_name": "خوشه مهر (خواجه امیر)",
+        "city_name": "خوشه مهر",
+        "province_code": 3,
+        "province_name": "آذربایجان شرقی"
+    },
+    {
+        "city_code": 55561,
+        "city_name": "خواجه امیر",
+        "province_code": 3,
+        "province_name": "آذربایجان شرقی"
+    },
+    {
+        "city_code": 55561,
+        "city_name": "خوجامیر",
         "province_code": 3,
         "province_name": "آذربایجان شرقی"
     },
@@ -6589,7 +6673,13 @@
     },
     {
         "city_code": 55681,
-        "city_name": "طوراغای (طوراغایی)",
+        "city_name": "طوراغای",
+        "province_code": 3,
+        "province_name": "آذربایجان شرقی"
+    },
+    {
+        "city_code": 55681,
+        "city_name": "طوراغایی",
         "province_code": 3,
         "province_name": "آذربایجان شرقی"
     },
@@ -6643,7 +6733,13 @@
     },
     {
         "city_code": 55841,
-        "city_name": "سلطان اباد (س انمکزار)",
+        "city_name": "سلطان اباد",
+        "province_code": 3,
+        "province_name": "آذربایجان شرقی"
+    },
+    {
+        "city_code": 55841,
+        "city_name": "سلطان اباد نمکزار",
         "province_code": 3,
         "province_name": "آذربایجان شرقی"
     },
@@ -7783,7 +7879,13 @@
     },
     {
         "city_code": 63451,
-        "city_name": "ام الطمیر (سیدیوسف)",
+        "city_name": "ام الطمیر",
+        "province_code": 4,
+        "province_name": "خوزستان"
+    },
+    {
+        "city_code": 63451,
+        "city_name": "سیدیوسف",
         "province_code": 4,
         "province_name": "خوزستان"
     },
@@ -8551,7 +8653,13 @@
     },
     {
         "city_code": 65831,
-        "city_name": "جعفریه (قلعه جعفربیک )",
+        "city_name": "جعفریه",
+        "province_code": 17,
+        "province_name": "همدان"
+    },
+    {
+        "city_code": 65831,
+        "city_name": "قلعه جعفربیک",
         "province_code": 17,
         "province_name": "همدان"
     },
@@ -9373,7 +9481,13 @@
     },
     {
         "city_code": 68531,
-        "city_name": "پاعلم (پل تنگ)",
+        "city_name": "پاعلم",
+        "province_code": 20,
+        "province_name": "لرستان"
+    },
+    {
+        "city_code": 68531,
+        "city_name": "پل تنگ",
         "province_code": 20,
         "province_name": "لرستان"
     },
@@ -9475,7 +9589,13 @@
     },
     {
         "city_code": 68751,
-        "city_name": "سیاه گوشی (پل هرو)",
+        "city_name": "سیاه گوشی",
+        "province_code": 20,
+        "province_name": "لرستان"
+    },
+    {
+        "city_code": 68751,
+        "city_name": "پل هرو",
         "province_code": 20,
         "province_name": "لرستان"
     },
@@ -13315,7 +13435,13 @@
     },
     {
         "city_code": 89831,
-        "city_name": "تنگ چنار (چنار)",
+        "city_name": "تنگ چنار",
+        "province_code": 25,
+        "province_name": "یزد"
+    },
+    {
+        "city_code": 89831,
+        "city_name": "چنار",
         "province_code": 25,
         "province_name": "یزد"
     },
@@ -13507,7 +13633,7 @@
     },
     {
         "city_code": 93581,
-        "city_name": "قرقی سفلی (شهیدکاوه)",
+        "city_name": "قرقی سفلی",
         "province_code": 7,
         "province_name": "خراسان رضوی"
     },
